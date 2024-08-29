@@ -1,8 +1,8 @@
 body, html {
-    height: 100%;
     margin: 0;
     display: flex;
     justify-content: center;
+    height: fit-content;
     align-items: center;
     background: #f0f0f3;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -20,6 +20,7 @@ body, html {
     padding: 40px;
     color: #ffffff;
     text-align: center;
+    
 }
 
 button {
